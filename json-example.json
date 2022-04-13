@@ -1,0 +1,43 @@
+{
+  "companyName": "My Company XYZ",
+  "homeTown": "New York",
+  "formed": 2016,
+  "sector": "Information Technology",
+  "active": true,
+  "n_employees": 350,
+  "departments": [
+    {
+      "name": "Administration",
+      "members": 29,
+      "manager": "John Louis",
+      "areas": [
+        "Finance",
+        "Human Resources",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "members": 39,
+      "manager": "Janette Williams",
+      "areas": [
+        "Front End Development",
+        "Back End Development",
+        "System Administration",
+        "Software Architecture"
+      ]
+    },
+    {
+      "name": "Client Management",
+      "members": 53,
+      "manager": "Robert Powell",
+      "areas": [
+        "Product Management",
+        "Marketing",
+        "National Sales",
+        "International Sales",
+        "After Sales"
+      ]
+    }
+  ]
+}
